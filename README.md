@@ -7,7 +7,7 @@ The WebOS project is called NovaOS, its a very powerful web system for all devic
 ![image](https://github.com/user-attachments/assets/c10bd45b-2a7b-4e30-b463-8e6a20dc6e85)<br>
 [Learn more](https://adthoughtsglobal.github.io/NovaOS/)
 
-The other projects include a non-AI chatbot, Lizabot3,
+The other projects include a non-AI chatbot, Lizabot3,<br>
 ![image](https://github.com/user-attachments/assets/eb9a7065-af6d-4954-9dc2-07c6bac7ac71)
 
 And many other little sub projects for NovaOS!
