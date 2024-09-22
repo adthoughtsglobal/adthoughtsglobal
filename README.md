@@ -3,7 +3,7 @@
 
 Mostly client side webdev who makes a Web OS (the cutest!!) who loves to code in html, js and css. <br>
 My webOS project is actually the coolest of my projects, but i equally enjoy making all of them!<br>
-The WebOS project is called NovaOS, its a very powerful web system for all devices that gives PWAs a better new home! Here's how it looks:
+The WebOS project is called NovaOS, its a very powerful web system for all devices that gives PWAs a better new home! Here's how it looks:<br>
 ![image](https://github.com/user-attachments/assets/b33dd17c-3b46-48dd-9713-999d2134eeef)
 ![image](https://github.com/user-attachments/assets/c10bd45b-2a7b-4e30-b463-8e6a20dc6e85)<br>
 [Learn more](https://adthoughtsglobal.github.io/NovaOS/)
