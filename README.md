@@ -5,15 +5,14 @@ Mostly client side webdev who makes a Web OS (the cutest!!) who loves to code in
 ## NovaOS
 My webOS project is actually the coolest of my projects, but i equally enjoy making all of them!<br><br>
 The WebOS project is called NovaOS, its a very powerful web system for all devices that gives PWAs a better new home! <br><br>Here's how it looks:<br><br>
-![image](https://github.com/user-attachments/assets/b33dd17c-3b46-48dd-9713-999d2134eeef)
 ![image](https://github.com/user-attachments/assets/c10bd45b-2a7b-4e30-b463-8e6a20dc6e85)
-<br><br>[Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
+<br><br>
+> [!TIP]
+> [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
 
 ## Other projects
-The other projects include a non-AI chatbot, Lizabot3,<br>
-![image](https://github.com/user-attachments/assets/eb9a7065-af6d-4954-9dc2-07c6bac7ac71)
-
-And many other little sub projects for NovaOS!
+The other projects include a non-AI chatbot, Lizabot3, And many other little sub projects for NovaOS like the musicPLR, WCanvas IDE, and a ton of others: [See a features list](https://sites.google.com/view/novastuff/features). 
+Nova store is a yet another project that makes NovaOS able to install many webapps made for NovaOS.
 
 More links:
 - [Youtube](https://www.youtube.com/@adthoughtsglobal)
