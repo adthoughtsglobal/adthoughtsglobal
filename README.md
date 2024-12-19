@@ -1,17 +1,17 @@
 ## This is adthoughtsglobal
 [Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://adthoughtsglobal.github.io/NovaOS/) | [Lizabot3](https://sites.google.com/view/lizabot3/home)
 
-Mostly client side webdev who makes a Web OS (the cutest!!) who loves to code in html, js and css.
+Mostly a client side webdev who makes the NovaOS (the cutest Web OS!!) and loves to code in html, js and css.
 ## NovaOS
 My webOS project is actually the coolest of my projects, but i equally enjoy making all of them!<br><br>
-The WebOS project is called NovaOS, its a very powerful web system for all devices that gives PWAs a better new home! <br><br>Here's how it looks:<br><br>
+Can't ignore NovaOS, its a very powerful web system for all devices that gives PWAs a better new home! <br><br>Here's how it looks:<br><br>
 ![image](https://github.com/user-attachments/assets/c10bd45b-2a7b-4e30-b463-8e6a20dc6e85)
 <br><br>
 > [!TIP]
 > [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
 
 ## Other projects
-The other projects include a non-AI chatbot, Lizabot3, And many other little sub projects for NovaOS like the musicPLR, WCanvas IDE, and a ton of others: [See a features list](https://sites.google.com/view/novastuff/features). 
+The other projects include a non-AI chatbot, Lizabot3, And many other little sub projects for NovaOS like the musicPLR, WCanvas IDE, and a ton of other subprojects: [See a features list](https://sites.google.com/view/novastuff/features). 
 Nova store is a yet another project that makes NovaOS able to install many webapps made for NovaOS.
 
 More links:
