@@ -1,18 +1,19 @@
 ## This is adthoughtsglobal
-[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
+[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://adthoughtsglobal.github.io/NovaOS/) ([Repo](https://github.com/adthoughtsglobal/Nova-OS))
 
-Primarily client-side web developer responsible for creating NovaOS ("The most stable web system" ❤️) and loves to code in HTML, JavaScript, and CSS.
+Primarily client-side web developer responsible for making NovaOS ("The most stable web system" ❤️) and loves to code in HTML, JavaScript, and CSS.
 ## [NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
-As you may have noticed, NovaOS dominates my projects, but I enjoy working on all of my projects equally!<br><br>
-It’s a powerful web system for all devices that gives PWAs and your device superpowers. NovaOS has defined standards, introduced new methods, and continues to adapt to be the best for the most amazing users. <br><br>Take a look:<br><br>
-![image](https://github.com/user-attachments/assets/c10bd45b-2a7b-4e30-b463-8e6a20dc6e85)
-<br><br>
+As you may have noticed, NovaOS dominates my projects. It has been under development for the past one and a half years. Currently at NovaOS 2.1 Lazarus (Coming soon!).
+It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. <br>
+![Untitled design (9)](https://github.com/user-attachments/assets/15e14a35-29c6-46fa-9887-4b5bedbd8d4a)
 > [!TIP]
 > [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
 
-## Other projects
-The other projects include projects built for NovaOS, like the musicPLR, WCanvas IDE, and a ton of different projects within NovaOS: [See a features list](https://novaos.gitbook.io/novaos-docs/docs/features). 
-Nova store is yet another project that allows NovaOS to install many web apps made for NovaOS.
+## On development projects
+- [Open Web CLI](https://github.com/openwebdesk/apple): A stable web-based CLI interface for managing isolated applications that are written in JavaScript.
+- [Open Web Image five](https://github.com/adthoughtsglobal/owifive) (onDev): A comprehensive image analysis tool for OSINT.
+
+The other projects include projects built for NovaOS, like the offline music player musicPLR, a web-based IDE for Python nd HTML, WCanvas3, and a ton of different projects within NovaOS: [See a features list](https://novaos.gitbook.io/novaos-docs/docs/features). 
 
 More links:
 - [Youtube](https://www.youtube.com/@adthoughtsglobal)
