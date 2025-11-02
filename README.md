@@ -1,9 +1,9 @@
 ## This is adthoughtsglobal
-[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://adthoughtsglobal.github.io/NovaOS/) ([Repo](https://github.com/adthoughtsglobal/Nova-OS))
+[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/Nova-OS))
 
 Primarily client-side web developer responsible for making NovaOS ("The most stable web system" ❤️) and loves to code in HTML, JavaScript, and CSS.
 ## [NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
-As you may have noticed, NovaOS dominates my projects. It has been under development for the past one and a half years. Currently at NovaOS 2.1 Lazarus (Coming soon!).
+As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years.
 It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. <br>
 ![Untitled design (9)](https://github.com/user-attachments/assets/15e14a35-29c6-46fa-9887-4b5bedbd8d4a)
 > [!TIP]
