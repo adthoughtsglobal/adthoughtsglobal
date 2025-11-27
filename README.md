@@ -1,5 +1,5 @@
 ## This is adthoughtsglobal
-[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/Nova-OS))
+[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
 
 Primarily client-side web developer responsible for making NovaOS ("The most stable web system" ❤️) and loves to code in HTML, JavaScript, and CSS.
 ## [NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
