@@ -1,19 +1,20 @@
-## This is adthoughtsglobal
-[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
+## Hi, I'm darkdot!
+[Homepage](https://adthoughtsglobal.github.io/) | [NovaOS](https://runnova.github.io/NovaOS/)
 
-Primarily client-side web developer responsible for making NovaOS ("The most stable web system" ❤️) and loves to code in HTML, JavaScript, and CSS.
-## [NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
+I'm primarily a client-side web developer, responsible for making NovaOS and loves to code in pure HTML, vannila JavaScript, and CSS.
+## [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
+<img width="300" src="https://github.com/user-attachments/assets/15e14a35-29c6-46fa-9887-4b5bedbd8d4a">
+
 As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years.
-It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. <br>
-![Untitled design (9)](https://github.com/user-attachments/assets/15e14a35-29c6-46fa-9887-4b5bedbd8d4a)
-> [!TIP]
-> [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
+It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
 
-## On development projects
-- [Open Web CLI](https://github.com/openwebdesk/apple): A stable web-based CLI interface for managing isolated applications that are written in JavaScript.
-- [Open Web Image five](https://adthoughtsglobal.github.io/Nova-Store/apps/owifive.html): A comprehensive image analysis tool for OSINT.
 
-The other projects include projects built for NovaOS, like the offline music player musicPLR, a web-based IDE for Python nd HTML, WCanvas3, and a ton of different projects within NovaOS: [See a features list](https://novaos.gitbook.io/novaos-docs/docs/features). 
+## Other projects
+<table> <thead> <tr> <th>Project</th> <th>Description</th> <th>Link</th> <th>Code</th> </tr> </thead> <tbody> 
+  <tr> <td><b>OrionClient</b></td> <td>A reliable, functional, and feature-rich client system for roturTW</td> <td><a href="https://runnova.github.io/orion/">open</a></td> <td><a href="https://github.com/runnova/orion/">repo</a></td> </tr> 
+  <tr> <td>MusicPLR</td> <td>A fully featured stable offline music player app for NovaOS that supports external visualizers and music queues.</td> <td colspan=2><a href="https://github.com/runnova/Nova-OS/blob/main/appdata/musicplr.html">novaos app</a></td> </tr>
+<tr> <td>OWI Five</td> <td>Owifive is an image editor that helps you to analize images with precision.</td> <td colspan=2><a href="https://github.com/adthoughtsglobal/Nova-Store/blob/main/apps/owifive.html">novaos app</a></td> </tr>
+</tbody> </table>
 
 More links:
 - [Youtube](https://www.youtube.com/@adthoughtsglobal)
