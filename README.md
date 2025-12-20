@@ -4,7 +4,6 @@
 I'm primarily a client-side web developer loves to code in pure HTML, vannila JavaScript, and CSS.
 ## [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
 <img height="170" src="https://github.com/user-attachments/assets/2813cce1-5c36-4189-943c-da6352e86263" />
-<img height="170" src="https://github.com/user-attachments/assets/4861a329-c216-4e6e-bae0-00488c0c77cd" />
 <img height="170" src="https://github.com/user-attachments/assets/f43c77a3-1ef7-4174-8b50-45f9c0c61eb5" />
 
 As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years.
