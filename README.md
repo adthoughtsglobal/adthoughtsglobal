@@ -3,8 +3,8 @@
 
 I'm primarily a client-side web developer loves to code in pure HTML, vanilla JavaScript, and CSS.
 ## [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
-<img width="35%" src="https://github.com/user-attachments/assets/2813cce1-5c36-4189-943c-da6352e86263" />
-<img width="49%" src="https://github.com/user-attachments/assets/f43c77a3-1ef7-4174-8b50-45f9c0c61eb5" />
+<img width="550" src="https://github.com/user-attachments/assets/2813cce1-5c36-4189-943c-da6352e86263" />
+<img width="550" src="https://github.com/user-attachments/assets/f43c77a3-1ef7-4174-8b50-45f9c0c61eb5" />
 
 As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years.
 It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
