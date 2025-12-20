@@ -1,10 +1,10 @@
 ## Hi, I'm darkdot!
 [Homepage](https://adthoughtsglobal.github.io/)
 
-I'm primarily a client-side web developer loves to code in pure HTML, vannila JavaScript, and CSS.
+I'm primarily a client-side web developer loves to code in pure HTML, vanilla JavaScript, and CSS.
 ## [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
-<img height="170" src="https://github.com/user-attachments/assets/2813cce1-5c36-4189-943c-da6352e86263" />
-<img height="170" src="https://github.com/user-attachments/assets/f43c77a3-1ef7-4174-8b50-45f9c0c61eb5" />
+<img width="35%" src="https://github.com/user-attachments/assets/2813cce1-5c36-4189-943c-da6352e86263" />
+<img width="49%" src="https://github.com/user-attachments/assets/f43c77a3-1ef7-4174-8b50-45f9c0c61eb5" />
 
 As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years.
 It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
@@ -14,7 +14,7 @@ It’s a powerful web system for all devices, giving your devices superpowers. N
 Many of my projects create store cookies on your browser.
 <table> <thead> <tr> <th>Project</th> <th>Description</th> <th>Link</th> <th>Code</th> </tr> </thead> <tbody> 
   <tr> <td>
-    <img height="25" src="https://runnova.github.io/orion/oclogo.png"> <br>
+    <img height="25" src="https://runnova.github.io/orion/oclogo.png">
     <b>OrionClient</b></td> <td>A reliable, functional, and feature-rich client system for roturTW</td> <td><a href="https://runnova.github.io/orion/">open</a></td> <td><a href="https://github.com/runnova/orion/">repo</a></td> </tr> 
   <tr>
     <td>
