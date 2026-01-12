@@ -31,3 +31,5 @@ More links:
 - [Youtube](https://www.youtube.com/@adthoughtsglobal)
 - [NovaOS discord](https://discord.com/invite/atkqbwEQU8)
 - [NovaOS Youtube Playlist](https://www.youtube.com/watch?v=o3Xr6DHxcFo&list=PLVY7raF48Kj5cBsNIvvta5dTCleSSgQa-).
+
+<img height="15" src="https://komarev.com/ghpvc/?username=adthoughtsglobal">
