@@ -1,13 +1,17 @@
 ## Hi, I'm darkdot!
 [Homepage](https://adthoughtsglobal.github.io/)
 
-I'm primarily a client-side web developer loves to code in pure HTML, vanilla JavaScript, and CSS.
-## [NovaOS](https://runnova.github.io/NovaOS/) ([Repo](https://github.com/runnova/NovaOS))
+I'm a web developer who likes to design and build complex systems.
+## Take a look at NovaOS!
+Open Source &bull; Fully local &bull; Actively maintained 
+
+As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years. It is one of the only web desktop projects written in pure HTML, vanilla JavaScript, and CSS.
+It’s a modular, offline-capable web operating system designed to run on any device. NovaOS has defined standards, introduced new methods, and supports ambitious web applications at any scale. 
+
+[Open **runnova/NovaOS**](https://github.com/runnova/NovaOS) &bull; [Docs](https://novaos.gitbook.io/) &bull; [Discord](https://discord.com/invite/atkqbwEQU8)
+
 <img width="550" src="https://github.com/user-attachments/assets/2813cce1-5c36-4189-943c-da6352e86263" />
 <img width="550" src="https://github.com/user-attachments/assets/f43c77a3-1ef7-4174-8b50-45f9c0c61eb5" />
-
-As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years.
-It’s a powerful web system for all devices, giving your devices superpowers. NovaOS has defined standards, introduced new methods, and continues adapting to be the best for the wildest web applications. [Learn more about NovaOS](https://adthoughtsglobal.github.io/NovaOS/)
 
 
 ## Other projects
