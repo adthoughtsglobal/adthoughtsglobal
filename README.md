@@ -35,3 +35,5 @@ More links:
 - [Youtube](https://www.youtube.com/@adthoughtsglobal)
 - [NovaOS discord](https://discord.com/invite/atkqbwEQU8)
 - [NovaOS Youtube Playlist](https://www.youtube.com/watch?v=o3Xr6DHxcFo&list=PLVY7raF48Kj5cBsNIvvta5dTCleSSgQa-).
+
+<img src="https://skillicons.dev/icons?i=discord,vscode,github,obsidian,linux,windows,html,css,js" height="200">
