@@ -32,7 +32,7 @@ Many of my projects create store cookies on your browser.
     <img height="25" src="https://github.com/user-attachments/assets/a95d9955-85e9-435b-9fae-e7446d8f199a"> </td> <td>
     <b>Cyrus server</b></td> <td>Cyrus is a dashboard for locally hosting centralized storage and networking.</td> <td colspan=2><a href="https://github.com/adthoughtsglobal/cyrus">repo</a></td></tr> 
   <tr> <td>
-    <img height="25" src="https://static.wixstatic.com/media/ff2944_330f709fada749118c653002274fbdca~mv2.gif"> </td> <td>MusicPLR v2</td> <td>A fully featured stable offline music player app for NovaOS that supports external visualizers and music queues.</td> <td colspan=2><a href="https://github.com/runnova/Nova-OS/blob/main/appdata/musicplr.html">novaos app</a></td> </tr>
+    <img height="25" src="https://static.wixstatic.com/media/ff2944_330f709fada749118c653002274fbdca~mv2.gif"> </td> <td>MusicPLR v2</td> <td>A fully featured stable offline music player app for NovaOS that supports external visualizers and music queues.</td> <td colspan=2><a href="https://github.com/runnova/NovaOS/blob/main/appdata/musicplr.html">novaos app</a></td> </tr>
     <tr><td>
     <img height="25" src="https://static.wixstatic.com/media/ff2944_330f709fada749118c653002274fbdca~mv2.gif"> </td> <td>LinkedRoots</td> <td>A lightweight platform helping you serve and read structured content written in LRML.</td> <td colspan=2><a href="https://github.com/adthoughtsglobal/lroots/">repo</a></td> </tr>
 </tbody> </table>
