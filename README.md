@@ -1,11 +1,13 @@
 ## Hi, I'm Dark Dot!
 [Homepage](https://adthoughtsglobal.github.io/)
 
-I'm a (web) developer who likes to design and build complex systems.
+I'm a guy who likes to design and build complicated systems.
 ## <img width="25" src="https://github.com/user-attachments/assets/74d70257-aedb-46f4-838a-57bd1dcff5b0"> NovaOS
 Open Source &bull; Fully local &bull; Actively maintained 
 
-As you may have noticed, NovaOS dominates my projects. It has been under development for the past two years. A vanilla JavaScript operating system for the web. Because Web Apps can and should run without the cloud sign-in.
+As you may have noticed, NovaOS dominates my projects. It had been under development for about two years. A vanilla JavaScript web desktop. Because Web Apps can and should run without the cloud sign-in. 
+
+This project has ended up being the trailblazer towards the Ozone Shell (next heading)
 
 [Open **runnova/NovaOS**](https://github.com/runnova/NovaOS) &bull; [Docs](https://novaos.gitbook.io/) &bull; [Discord](https://discord.com/invite/atkqbwEQU8)
 |&nbsp;| &nbsp;|
@@ -15,7 +17,7 @@ As you may have noticed, NovaOS dominates my projects. It has been under develop
 
 # <img height="25" src="https://avatars.githubusercontent.com/u/265530475?s=200&v=4"> Ozone Shell
 
-Client side shared webapp runtime &bull; Expecting a release soon!
+Client side shared webapp runtime &bull; [repo](https://github.com/ozoneshell/ozoneshell.github.io#), [docs](https://ozoneshell.readme.io)
 
 
 # Other projects
@@ -24,6 +26,10 @@ Many of my projects create store cookies on your browser.
   <tr> <td>
     <img height="25" src="https://runnova.github.io/orion/oclogo.png"> </td> <td>
     <b>OrionClient</b></td> <td>A reliable, functional, and feature-rich client system for roturTW</td> <td><a href="https://runnova.github.io/orion/">open</a></td> <td><a href="https://github.com/runnova/orion/">repo</a></td> </tr> 
+  <tr>
+    <tr> <td>
+    <img height="25" src="https://runnova.github.io/indigo/icon_small.svg"> </td> <td>
+    <b>Indigo</b></td> <td>A cool originchats client based on SolidJS </td> <td><a href="https://runnova.github.io/indigo/">open</a></td> <td><a href="https://github.com/runnova/indigo/">repo</a></td> </tr> 
   <tr>
     <td>
       <img height="25" src="https://openwebdesk.github.io/apple/assets/apple.png"> </td> <td>
